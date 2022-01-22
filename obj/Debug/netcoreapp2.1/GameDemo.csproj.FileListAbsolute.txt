@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\NewProject\GameDemo\obj\Debug\netcoreapp2.1\GameDemo.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NewProject\GameDemo\obj\Debug\netcoreapp2.1\GameDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\NewProject\GameDemo\obj\Debug\netcoreapp2.1\GameDemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\NewProject\GameDemo\obj\Debug\netcoreapp2.1\GameDemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\NewProject\GameDemo\obj\Debug\netcoreapp2.1\GameDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NewProject\GameDemo\bin\Debug\netcoreapp2.1\GameDemo.deps.json
+C:\Users\HP\source\repos\NewProject\GameDemo\bin\Debug\netcoreapp2.1\GameDemo.runtimeconfig.json
+C:\Users\HP\source\repos\NewProject\GameDemo\bin\Debug\netcoreapp2.1\GameDemo.runtimeconfig.dev.json
+C:\Users\HP\source\repos\NewProject\GameDemo\bin\Debug\netcoreapp2.1\GameDemo.dll
+C:\Users\HP\source\repos\NewProject\GameDemo\bin\Debug\netcoreapp2.1\GameDemo.pdb
+C:\Users\HP\source\repos\NewProject\GameDemo\obj\Debug\netcoreapp2.1\GameDemo.dll
+C:\Users\HP\source\repos\NewProject\GameDemo\obj\Debug\netcoreapp2.1\GameDemo.pdb
+C:\Users\HP\source\repos\NewProject\GameDemo\obj\Debug\netcoreapp2.1\GameDemo.genruntimeconfig.cache
